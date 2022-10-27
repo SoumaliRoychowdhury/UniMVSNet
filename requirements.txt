@@ -6,4 +6,5 @@ torch==1.7.0
 torchaudio==0.7.0
 torchvision==0.8.1
 typing-extensions==3.7.4.3
+opencv-python==3.4.14
 
